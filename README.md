@@ -13,3 +13,6 @@ Deletion at the end of the array would take one step becauese you are just delet
 
 Task 4
 This would depend on how big the value is. You would have to check each single one n times so by that logic the answer is o(n) since it is also linear.
+
+My youtube link for the video 
+https://www.youtube.com/watch?v=q5_znOrznBE
